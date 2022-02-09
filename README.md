@@ -1,10 +1,9 @@
 
 # Hai 
 
-Perkenal kan nama Saya **Gentha Arya Pratama**.\
+Saya **Gentha Arya Pratama**.\
 Saya Seorang **Mahasiswa** Di [Universitas Dian Nuswantoro](https://www.dinus.ac.id/).\
-
-Ingin mengetahui Tentang saya , klik [Linkedin](https://www.linkedin.com/in/m-gentha-arya-pratama-37b419231/).
+------------------------------------------------------------------------------------------
 
 
 <p align="left">
@@ -13,3 +12,8 @@ Ingin mengetahui Tentang saya , klik [Linkedin](https://www.linkedin.com/in/m-ge
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Genta-dinus&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+### Reach me on
+- <a href="https://www.linkedin.com/in/m-gentha-arya-pratama-37b419231/">LinkedIn</a>
+- mgentaaryas@gmail.com
+- <a href="https://www.instagram.com/mgentaarya/">Instagram</a>
