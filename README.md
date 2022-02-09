@@ -2,7 +2,7 @@
 # Hai 
 
 Saya **Gentha Arya Pratama**.\
-**Mahasiswa** Di Salah satu Perguruan Tinggi di Semarang , [Universitas Dian Nuswantoro](https://www.dinus.ac.id/).\
+**Mahasiswa** di salah satu Perguruan Tinggi di Semarang , [Universitas Dian Nuswantoro](https://www.dinus.ac.id/).\
 ------------------------------------------------------------------------------------------
 
 
