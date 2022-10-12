@@ -17,3 +17,4 @@ Saya **Gentha Arya Pratama**.\
 - <a href="https://www.linkedin.com/in/m-gentha-arya-pratama-37b419231/">LinkedIn</a>
 - mgentaaryas@gmail.com
 - <a href="https://www.instagram.com/mgentaarya/">Instagram</a>
+- <a href="https://github.com/Genta-dinus/Genta-dinus">About me</a>
