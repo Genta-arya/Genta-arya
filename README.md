@@ -12,7 +12,7 @@ Saya **Gentha Arya Pratama**.\
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Genta-dinus&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-[Statistik GitHub](https://github-readme-stats.vercel.app/api?username=nama-akun&show_icons=true&count_private=true&theme=dark)
+[Statistik GitHub](https://github-readme-stats.vercel.app/api?username=Genta-dinus&show_icons=true&count_private=true&theme=dark)
 
 ### Reach me on
 - <a href="https://www.linkedin.com/in/m-gentha-arya-pratama-37b419231/">LinkedIn</a>
