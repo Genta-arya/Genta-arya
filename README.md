@@ -9,9 +9,9 @@ Saya **Gentha Arya Pratama**.\
 <p align="left">
 <a href="https://github.com/Genta-dinus">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Genta-dinus&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Genta-dinus&layout=compact&langs_count=8&theme=algolia"/>
+  
   <img src="https://github-readme-stats.vercel.app/api?username=Genta-dinus&show_icons=true&theme=radical" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nama-akun&layout=compact&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Genta-dinus&layout=compact&theme=dark"/>
   
 </a>
 </p>
