@@ -1,10 +1,8 @@
+# Hai!
 
-# Hai 
+Perkenalkan, saya **Gentha Arya Pratama**, seorang mahasiswa di salah satu Perguruan Tinggi di Semarang, yaitu [Universitas Dian Nuswantoro](https://www.dinus.ac.id/). Saya sangat tertarik dalam dunia teknologi dan pengembangan perangkat lunak. Di bawah ini adalah beberapa informasi tambahan tentang saya:
 
-Saya **Gentha Arya Pratama**.\
-**Mahasiswa** di salah satu Perguruan Tinggi di Semarang , [Universitas Dian Nuswantoro](https://www.dinus.ac.id/).\
-------------------------------------------------------------------------------------------
-
+## Statistik Github
 
 <p align="left">
 <a href="https://github.com/Genta-dinus">
@@ -16,9 +14,13 @@ Saya **Gentha Arya Pratama**.\
 </a>
 </p>
 
+## Hubungi Saya
 
-### Reach me on
-- <a href="https://www.linkedin.com/in/m-gentha-arya-pratama-37b419231/">LinkedIn</a>
-- mgentaaryas@gmail.com
-- <a href="https://www.instagram.com/mgentaarya/">Instagram</a>
-- <a href="https://github.com/Genta-dinus/Genta-dinus">About me</a>
+Anda dapat mencapai saya melalui beberapa platform berikut:
+
+- [LinkedIn](https://www.linkedin.com/in/m-gentha-arya-pratama-37b419231/)
+- Email: mgentaaryas@gmail.com
+- [Instagram](https://www.instagram.com/mgentaarya/)
+- [Tentang saya](https://github.com/Genta-dinus/Genta-dinus)
+
+Jika Anda memiliki pertanyaan atau ingin berdiskusi tentang topik tertentu, jangan ragu untuk menghubungi saya. Saya senang berinteraksi dengan orang-orang baru dan berbagi pengetahuan. Terima kasih!
