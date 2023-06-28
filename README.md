@@ -1,26 +1,16 @@
-# Hai!
+<h1 align="center">Hi 👋, I'm M Gentha Arya Pratama</h1>
+<h3 align="center">Perkenalkan, saya Gentha Arya Pratama, seorang mahasiswa di salah satu Perguruan Tinggi di Semarang, yaitu Universitas Dian Nuswantoro. Saya sangat tertarik dalam dunia teknologi dan pengembangan perangkat lunak. Di bawah ini adalah beberapa informasi tambahan tentang saya:</h3>
 
-Perkenalkan, saya **Gentha Arya Pratama**, seorang mahasiswa di salah satu Perguruan Tinggi di Semarang, yaitu [Universitas Dian Nuswantoro](https://www.dinus.ac.id/). Saya sangat tertarik dalam dunia teknologi dan pengembangan perangkat lunak. Di bawah ini adalah beberapa informasi tambahan tentang saya:
+- 📫 How to reach me **mgentaarya@gmail.com**
 
-## Statistik Github
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/Genta-dinus">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Genta-dinus&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Genta-dinus&show_icons=true&theme=radical" alt="Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Genta-dinus&layout=compact&theme=dark"/>
-  
-</a>
+<a href="https://instagram.com/mgentaarya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mgentaarya" height="30" width="40" /></a>
 </p>
 
-## Hubungi Saya
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-Anda dapat mencapai saya melalui beberapa platform berikut:
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=genta-dinus&show_icons=true&locale=en&layout=compact" alt="genta-dinus" /></p>
 
-- [LinkedIn](https://www.linkedin.com/in/m-gentha-arya-pratama-37b419231/)
-- Email: mgentaaryas@gmail.com
-- [Instagram](https://www.instagram.com/mgentaarya/)
-- [Tentang saya](https://github.com/Genta-dinus/Genta-dinus)
-
-Jika Anda memiliki pertanyaan atau ingin berdiskusi tentang topik tertentu, jangan ragu untuk menghubungi saya. Saya senang berinteraksi dengan orang-orang baru dan berbagi pengetahuan. Terima kasih!
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=genta-dinus&" alt="genta-dinus" /></p>
