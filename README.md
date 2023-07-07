@@ -1,21 +1,27 @@
-<h1 align="center">Hi 👋, I'm Gentha Arya</h1>
-<h3 align="center">Perkenalkan, saya seorang pengembang aplikasi mobile dan web. Saya memiliki pengalaman dalam menggunakan berbagai teknologi seperti React.js, Node.js, dan Kotlin. Saya telah mendesain dan mengembangkan berbagai aplikasi menggunakan pendekatan berbasis komponen dengan React.js untuk menciptakan antarmuka pengguna yang responsif dan interaktif. Selain itu, saya juga memiliki keahlian dalam pengembangan sisi server dengan Node.js, membangun API yang kuat dan skalabel. Selain itu, saya juga menguasai Kotlin untuk pengembangan aplikasi mobile di platform Android. Saya berdedikasi untuk menciptakan pengalaman pengguna yang luar biasa dan fungsionalitas yang handal dalam setiap proyek yang saya kerjakan. Saya senang bekerja dalam tim dan selalu mencari peluang untuk terus belajar dan mengembangkan keterampilan saya dalam dunia pengembangan aplikasi mobile dan web.</h3>
+# 💫 About Me:
+Perkenalkan, saya seorang pengembang aplikasi mobile dan web. Saya memiliki pengalaman dalam menggunakan berbagai teknologi seperti React.js, Node.js, dan Kotlin. Saya telah mendesain dan mengembangkan berbagai aplikasi menggunakan pendekatan berbasis komponen dengan React.js untuk menciptakan antarmuka pengguna yang responsif dan interaktif. Selain itu, saya juga memiliki keahlian dalam pengembangan sisi server dengan Node.js, membangun API yang kuat dan skalabel. Selain itu, saya juga menguasai Kotlin untuk pengembangan aplikasi mobile di platform Android. Saya berdedikasi untuk menciptakan pengalaman pengguna yang luar biasa dan fungsionalitas yang handal dalam setiap proyek yang saya kerjakan. Saya senang bekerja dalam tim dan selalu mencari peluang untuk terus belajar dan mengembangkan keterampilan saya dalam dunia pengembangan aplikasi mobile dan web.
 
-- 🌱 I’m currently learning **React js and native expo**
 
-- 📫 How to reach me **mgentaarya@gmail.com**
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mgentaarya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/m-gentha-arya-pratama-37b419231/) 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/m-gentha-arya-pratama-37b419231/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/m-gentha-arya-pratama-37b419231/" height="30" width="40" /></a>
-<a href="https://instagram.com/mgentaarya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mgentaarya" height="30" width="40" /></a>
-</p>
+# 💻 Tech Stack:
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=genta-arya&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=genta-arya&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=genta-arya&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=genta-arya&show_icons=true&locale=en&layout=compact" alt="genta-arya" /></p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=genta-arya&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=genta-arya&show_icons=true&locale=en" alt="genta-arya" /></p>
+### 😂 Random Dev Meme
+<img src="https://rm.up.railway.app/" width="512px"/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=genta-arya&" alt="genta-arya" /></p>
+---
+[![](https://visitcount.itsvg.in/api?id=genta-arya&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
