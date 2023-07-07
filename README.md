@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gentha Arya</h1>
 <h3 align="center">Perkenalkan, saya seorang pengembang aplikasi mobile dan web. Saya memiliki pengalaman dalam menggunakan berbagai teknologi seperti React.js, Node.js, dan Kotlin. Saya telah mendesain dan mengembangkan berbagai aplikasi menggunakan pendekatan berbasis komponen dengan React.js untuk menciptakan antarmuka pengguna yang responsif dan interaktif. Selain itu, saya juga memiliki keahlian dalam pengembangan sisi server dengan Node.js, membangun API yang kuat dan skalabel. Selain itu, saya juga menguasai Kotlin untuk pengembangan aplikasi mobile di platform Android. Saya berdedikasi untuk menciptakan pengalaman pengguna yang luar biasa dan fungsionalitas yang handal dalam setiap proyek yang saya kerjakan. Saya senang bekerja dalam tim dan selalu mencari peluang untuk terus belajar dan mengembangkan keterampilan saya dalam dunia pengembangan aplikasi mobile dan web.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=genta-arya&label=Profile%20views&color=0e75b6&style=flat" alt="genta-arya" /> </p>
-
 - 🌱 I’m currently learning **React js and native expo**
 
 - 📫 How to reach me **mgentaarya@gmail.com**
