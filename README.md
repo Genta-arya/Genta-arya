@@ -11,11 +11,6 @@ Perkenalkan, saya seorang pengembang aplikasi mobile dan web. Saya memiliki peng
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=genta-arya&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-
-
 ---
 [![](https://visitcount.itsvg.in/api?id=genta-arya&icon=0&color=0)](https://visitcount.itsvg.in)
 
