@@ -1,5 +1,5 @@
 # 💫 About Me:
-Perkenalkan, saya seorang pengembang aplikasi mobile dan web. Saya memiliki pengalaman dalam menggunakan berbagai teknologi seperti React.js, Node.js, dan Kotlin. Saya telah mendesain dan mengembangkan berbagai aplikasi menggunakan pendekatan berbasis komponen dengan React.js untuk menciptakan antarmuka pengguna yang responsif dan interaktif. Selain itu, saya juga memiliki keahlian dalam pengembangan sisi server dengan Node.js, membangun API yang kuat dan skalabel. Selain itu, saya juga menguasai Kotlin untuk pengembangan aplikasi mobile di platform Android. Saya berdedikasi untuk menciptakan pengalaman pengguna yang luar biasa dan fungsionalitas yang handal dalam setiap proyek yang saya kerjakan. Saya senang bekerja dalam tim dan selalu mencari peluang untuk terus belajar dan mengembangkan keterampilan saya dalam dunia pengembangan aplikasi mobile dan web.
+Memiliki pengalaman selama 2 tahun sebagai seorang Fullstack Developer di platform mobile ataupun website. Saya dapat beradaptasi dengan teknologi-teknologi terkini dan memiliki kemampuan dalam mengembangkan solusi yang inovatif dan efisien untuk berbagai kebutuhan proyek aplikasi
 
 
 ## 🌐 Socials:
