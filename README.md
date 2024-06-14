@@ -1,5 +1,5 @@
 # 💫 About Me:
-Memiliki pengalaman selama 2 tahun sebagai seorang Fullstack Developer di platform mobile ataupun website. Saya dapat beradaptasi dengan teknologi-teknologi terkini dan memiliki kemampuan dalam mengembangkan solusi yang inovatif dan efisien untuk berbagai kebutuhan proyek aplikasi
+Memiliki pengalaman selama 1 tahun sebagai seorang Fullstack Developer di platform mobile ataupun website. Saya dapat beradaptasi dengan teknologi-teknologi terkini dan memiliki kemampuan dalam mengembangkan solusi yang inovatif dan efisien untuk berbagai kebutuhan proyek aplikasi
 
 
 ## 🌐 Socials:
